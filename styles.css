@@ -1,0 +1,32 @@
+/* add your CSS here */
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+@import url("https://fonts.googleapis.com/css?family=Arima+Madurai");
+body{
+
+    font-family: "Indie Flower";
+}
+.card{
+    border-style:groove;
+    width: 300px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px #d1cece;
+    background-color: #e4e2ff;
+}
+ul{
+    list-style-type: none;
+}
+#image{
+    height: 200px;
+    width: 300px;
+    border-radius: 50%
+}
+.info{
+    border-style:groove;
+    padding: 5px;
+}
+#fact{
+    font-style: italic;
+}
+.label{
+    font-weight: bold;
+}
